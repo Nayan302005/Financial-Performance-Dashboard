@@ -188,6 +188,3 @@ This dashboard provides a centralized view of financial performance, enabling st
 
 ---
 
-<p align="center">
-⭐ If you found this project useful, consider giving it a star on GitHub!
-</p>
